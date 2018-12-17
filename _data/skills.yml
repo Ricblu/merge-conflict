@@ -7,3 +7,11 @@
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  
+  # Swimming
+- skill: Swimming
+  description: Trained in various classes and spent hours swimming on the beach.
+
+# Talking
+- skill: Talking
+  description: Spent time talking to all kinds of people in all kinds of situations 
